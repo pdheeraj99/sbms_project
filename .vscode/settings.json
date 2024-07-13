@@ -1,0 +1,32 @@
+{
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.project.explorer.showNonJavaResources": true,
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms256m -Xlog:disable",
+    "java.referencesCodeLens.enabled": false,
+    "java.format.enabled": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/target": true,
+        "**/mvnw":true,
+        "**/mvnw.cmd":true
+    },
+    "java.trace.server": "verbose",
+    "redhat.telemetry.enabled": false,
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-17",
+    "editor.suggest.localityBonus":true,
+    "editor.suggestSelection":"recentlyUsed",
+    "java.jdt.ls.lombokSupport.enabled":true,
+    "java.errors.incompleteClasspath.severity":"error",
+    "java.configuration.updateBuildConfiguration":"automatic",
+    "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+    "java.format.settings.profile": "GoogleStyle",
+    "java.server.launchMode":"Standard",
+    "java.settings.url": "C:\\Users\\Dheeraj\\java_settings.prefs"
+}

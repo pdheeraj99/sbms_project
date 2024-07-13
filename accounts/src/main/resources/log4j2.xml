@@ -1,0 +1,17 @@
+<!-- <Configuration>
+    <Appenders>
+        <ConsoleAppender name="Console" target="SYSTEM_OUT">
+            <PatternLayout>
+                <Pattern>
+    %d{yyyy-MM-dd HH:mm:ss} [%thread] %>%-5level %logger{36} - %msg%n%style{%level}{info=blue, warn=red, error=red, debug=green, trace=blue}
+</Pattern>
+
+            </PatternLayout>
+        </ConsoleAppender>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration> -->
